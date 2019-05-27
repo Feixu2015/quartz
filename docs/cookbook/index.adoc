@@ -35,7 +35,7 @@ Choose from the following menu of How-Tos:
 * link:ScheduleJob.md[Defining and Scheduling a Job]
 * link:UnscheduleJob.md[Unscheduling a Job]
 * link:StoreJob.md[Storing a Job For Later Scheduling]
-* link:ScheduleStoreJob.md[Scheduling an already stored Job]
+* link:ScheduleStoredJob.md[Scheduling an already stored Job]
 * link:UpdateJob.md[Updating an existing Job]
 * link:UpdateTrigger.md[Updating an existing Trigger]
 * link:JobInitPlugin.md[Initializing a Scheduler With Job And Triggers Defined in an XML file]
